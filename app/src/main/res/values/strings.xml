@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Movies</string>
+    <string-array name="movie_titles">
+        <item>Wonder woman</item>
+        <item>Pirates of the Caribean</item>
+    </string-array>
+    <string-array name="movie_description">
+        <item>Yeap, yall know warriiss</item>
+        <item>Johny Deep back again</item>
+    </string-array>
+</resources>
